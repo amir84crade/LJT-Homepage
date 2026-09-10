@@ -11,54 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024 – Present
+* **B.Eng.**, Shanghai Jiao Tong University, 2020 – 2024
+  * Graduated June 2024
+  * Received Zhiyuan Honor Scholarship
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Intern**, MINIMAX, February 2025 – Present
+* **Research Intern**, Tencent WXG, June 2024 – September 2024
+  * Advised by Zifei Shan
+* **Research Intern**, Shanghai AI Lab, June 2023 – December 2023
+  * Advised by Prof. Yu Cheng
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Interests
+======
+- LLM Reasoning and Reinforcement Learning
+- Hallucination in Vision-Language Models (VLM)
+- LLM truthfulness and Interpretability
+- Natural Language Processing, Machine Learning
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Programming Languages: Python, C/C++
+- Frameworks: PyTorch, HuggingFace Transformers
+- Expertise: Large Language Models, Reinforcement Learning, Vision-Language Models, Model Interpretability, Model Evaluation
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+Contact
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Email**: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
+- **GitHub**: [Vicent0205](https://github.com/Vicent0205)
+- **Google Scholar**: [Profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ)
+- **X (Twitter)**: [@junteng88716710](https://x.com/junteng88716710)
