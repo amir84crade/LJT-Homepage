@@ -22,41 +22,30 @@
         "network": "GitHub",
         "username": "Vicent0205",
         "url": "https://github.com/Vicent0205"
-      },
-      {
-        "network": "X",
-        "username": "junteng88716710",
-        "url": ""
       }
     ]
   },
   "work": [
     {
-      "institution": "MINIMAX",
-      "area": "Research Intern",
-      "studyType": "",
+      "company": "MINIMAX",
+      "position": "Research Intern",
       "startDate": "2025-02",
       "endDate": "",
-      "gpa": null,
-      "courses": []
+      "summary": ""
     },
     {
-      "institution": "Tencent WXG",
-      "area": "Research Intern",
-      "studyType": "",
+      "company": "Tencent WXG",
+      "position": "Research Intern",
       "startDate": "2024-06",
       "endDate": "2024-09",
-      "gpa": null,
-      "courses": ["Advisor: Zifei Shan"]
+      "summary": "Advisor: Zifei Shan"
     },
     {
-      "institution": "Shanghai AI Lab",
-      "area": "Research Intern",
-      "studyType": "",
+      "company": "Shanghai AI Lab",
+      "position": "Research Intern",
       "startDate": "2023-06",
       "endDate": "2023-12",
-      "gpa": null,
-      "courses": ["Advisor: Prof. Yu Cheng"]
+      "summary": "Advisor: Prof. Yu Cheng"
     }
   ],
   "education": [
